@@ -1,11 +1,15 @@
-INTRODUCTION
-------------
+## This repository is no longer maintained ⚠️
+
+This project is archived and will not receive any updates or bug fixes.
+
+Use at your own risk.
+
+## INTRODUCTION
 
 The EasyTransac module adds a payment method to Drupal 7 Commerce in order to
 check out via EasyTransac's payment service.
 
-REQUIREMENTS
-------------
+## REQUIREMENTS
 
 This module requires the following PHP specifications:
 
@@ -20,16 +24,14 @@ This module requires an EasyTransac account, please visit:
 
  * EasyTransac (https://easytransac.com)
 
-INSTALLATION
-------------
+## INSTALLATION
 
  * Install as you would normally install a contributed Drupal module. See:
    https://drupal.org/documentation/install/modules-themes/modules-7
    for further information.
 
 
-CONFIGURATION
--------------
+## CONFIGURATION
 
  * Create an account on https://www.easytransac.com and configure your 
    application by allowing your server's IP address. This will provide you with 
